@@ -6,3 +6,4 @@ potatoes
 pasta
 sauce
 chicken
+beef
